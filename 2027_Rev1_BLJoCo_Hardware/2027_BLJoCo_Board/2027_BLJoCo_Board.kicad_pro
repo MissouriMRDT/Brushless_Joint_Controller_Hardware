@@ -444,13 +444,17 @@
         "uuid": "fbd9c71c-f200-4aab-a303-9f269bc9de13"
       }
     ],
-    "used_designators": "#PWR1-6,#PWR8,#PWR26",
+    "used_designators": "#PWR1-6,#PWR8,#PWR26-27,#PWR32-33",
     "variants": []
   },
   "sheets": [
     [
       "fbd9c71c-f200-4aab-a303-9f269bc9de13",
       "2027_BLJoCo_Board"
+    ],
+    [
+      "53976549-996c-47bb-ac74-5798551c3cd0",
+      "LED Mosfets"
     ]
   ],
   "text_variables": {},

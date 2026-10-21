@@ -11482,7 +11482,7 @@
 		)
 		(uuid "240e7035-5526-4438-b6c9-e1c61805c500")
 	)
-	(label "LED_B_Out"
+	(label "Led_B_Out"
 		(at 243.84 97.79 90)
 		(effects
 			(font
@@ -11642,7 +11642,7 @@
 		)
 		(uuid "6f357d49-2f30-4d6e-89f4-1f3d9a6bedd9")
 	)
-	(label "LED_G_Out"
+	(label "Led_G_Out"
 		(at 246.38 97.79 90)
 		(effects
 			(font
@@ -11712,7 +11712,7 @@
 		)
 		(uuid "943d0a93-6de2-484c-b548-71cf4a8f4c8c")
 	)
-	(label "LED_R_Out"
+	(label "Led_R_Out"
 		(at 248.92 97.79 90)
 		(effects
 			(font
@@ -17866,6 +17866,52 @@
 				(path "/fbd9c71c-f200-4aab-a303-9f269bc9de13"
 					(reference "C?")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 226.06 135.89)
+		(size 36.83 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "53976549-996c-47bb-ac74-5798551c3cd0")
+		(property "Sheetname" "LED Mosfets"
+			(at 226.06 135.1784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 226.06 158.0646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2027_BLJoCo_Board"
+				(path "/fbd9c71c-f200-4aab-a303-9f269bc9de13"
+					(page "2")
 				)
 			)
 		)
