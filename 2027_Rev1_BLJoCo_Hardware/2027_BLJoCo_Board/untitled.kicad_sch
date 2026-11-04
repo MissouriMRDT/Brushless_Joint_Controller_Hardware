@@ -1592,26 +1592,6 @@
 		)
 		(uuid "0f287db8-3a64-4bb0-9fc6-c3ddaaac8cab")
 	)
-	(label "Led_G_Out"
-		(at 165.1 93.98 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "11b9bf42-67fa-4669-b28e-70c0fba8c766")
-	)
-	(label "Led_B_Out"
-		(at 121.92 93.98 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "53f4fa9f-3d7a-48f2-81d7-192006db51cb")
-	)
 	(label "LED_G"
 		(at 138.43 88.9 180)
 		(effects
@@ -1622,15 +1602,25 @@
 		)
 		(uuid "6d1acf08-470a-4316-a327-4420cb2555b5")
 	)
-	(label "Led_R_Out"
-		(at 208.28 93.98 270)
+	(label "Led_B_Out"
+		(at 121.92 93.98 270)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "80c4b3b8-d9b3-4357-a5c7-13d61bab245d")
+		(uuid "a33e0261-adcb-46b5-8ddd-d95577c7a2be")
+	)
+	(label "Led_G_Out"
+		(at 165.1 93.98 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c41875d9-b1da-428e-888e-ed4291f320d0")
 	)
 	(label "LED_R"
 		(at 181.61 88.9 180)
@@ -1641,6 +1631,16 @@
 			(justify right bottom)
 		)
 		(uuid "c61d14eb-fd21-4ff0-9519-cdd90bd3d824")
+	)
+	(label "Led_R_Out"
+		(at 208.28 93.98 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d4f24b8b-1b05-4dba-bd6b-eef66b520f8a")
 	)
 	(symbol
 		(lib_id "Device:R_US")
