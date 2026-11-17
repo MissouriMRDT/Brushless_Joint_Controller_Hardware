@@ -15133,6 +15133,32 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "H"
+		(at 97.3 63.77 0)
+		(layer "F.SilkS")
+		(uuid "0237d15f-3231-434b-a919-ac352867a538")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "L\n"
+		(at 97.478571 70.14 0)
+		(layer "F.SilkS")
+		(uuid "8a6411fd-548c-4d25-bd9b-af80823ec34a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "3.3v\n"
 		(locked yes)
 		(at 96.89 95.08 90)
