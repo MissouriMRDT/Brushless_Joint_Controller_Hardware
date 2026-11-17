@@ -156,7 +156,7 @@
 		(at 101.81 78.027553 90)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED handsolder")
-		(property "Reference" "D3"
+		(property "Reference" "3.3V"
 			(at -0.0024 -1.38 90)
 			(layer "F.SilkS")
 			(uuid "9be29152-689d-4451-be3d-fb98f09fb34c")
@@ -1702,7 +1702,7 @@
 		(at 96.04 93.62)
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
-		(property "Reference" "TP1"
+		(property "Reference" "3.3V"
 			(at -0.89 -2.63 90)
 			(layer "F.SilkS")
 			(uuid "c5c1c5a5-0324-4200-8398-37492f9416e6")
@@ -2571,7 +2571,7 @@
 		(at 103.97 78.022553 90)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED handsolder")
-		(property "Reference" "D2"
+		(property "Reference" "24V"
 			(at 0.0126 1.76 90)
 			(layer "F.SilkS")
 			(uuid "f8565c09-d7a5-4a70-9c14-6f20d1351c8f")
@@ -8180,7 +8180,7 @@
 		(property "Reference" "C23"
 			(at 3.28 0.86 0)
 			(layer "B.SilkS")
-			(uuid "d98c454b-fc18-4899-9ec8-fcbbf7339f25")
+			(uuid "b61410dd-d898-41ab-b6d9-be68799006ff")
 			(effects
 				(font
 					(size 1 1)
@@ -8192,7 +8192,7 @@
 		(property "Value" "1uF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
-			(uuid "6b232aee-ed83-48b1-986e-7dd3ff16801f")
+			(uuid "24fc0a1f-80e5-49d0-b83c-cecf2bdc860c")
 			(effects
 				(font
 					(size 1 1)
@@ -8205,7 +8205,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9eccf28d-bc2d-48a8-bf34-0eccb92e0dee")
+			(uuid "70e8be2f-59d4-4347-b58d-b72d260b5fed")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8217,7 +8217,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9d4afa5d-1900-4b0f-a69e-00739f378b7c")
+			(uuid "97b8e6ca-7b7d-4f3e-9b79-1536c2c238eb")
 			(effects
 				(font
 					(size 1.27 1.27)
